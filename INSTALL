@@ -1,0 +1,9 @@
+Building Arnix
+
+See doc/readme-qt.rst for instructions on building Arnix-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Arnix.
+
+See doc/build-*.txt for instructions on building arnixd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Arnix.
