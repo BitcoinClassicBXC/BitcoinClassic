@@ -4,7 +4,7 @@ Arnix integration/staging tree
 https://www.arnixproject.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Arnix Developers
+Copyright (c) 2016-2018 Arnix Developers
 
 What is Arnix?
 ----------------
