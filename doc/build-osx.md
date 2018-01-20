@@ -3,7 +3,7 @@ Mac OS X arnixd build instructions
 
 Authors
 -------
-
+* Habib Alejalil <habibalejalil@gmail.com>
 * Laszlo Hanyecz <solar@heliacal.net>
 * Douglas Huff <dhuff@jrbobdobbs.org>
 * Colin Dean <cad@cad.cx>
