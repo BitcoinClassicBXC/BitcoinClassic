@@ -5,6 +5,8 @@ https://www.arnixproject.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 
+Copyright (c) 2014-2016 LiteCoin Developers
+
 Copyright (c) 2016-2018 Arnix Developers
 
 What is Arnix?
