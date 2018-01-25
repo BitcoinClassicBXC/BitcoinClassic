@@ -3,11 +3,7 @@ Arnix integration/staging tree
 
 https://www.arnixproject.com
 
-Copyright (c) 2009-2014 Bitcoin Developers
 
-Copyright (c) 2014-2016 LiteCoin Developers
-
-Copyright (c) 2016-2018 Arnix Developers
 
 What is Arnix?
 ----------------
@@ -15,7 +11,7 @@ What is Arnix?
 Arnix is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
- - ~90 Billion total coins
+ - ~92 Billion total coins
 
 The rest is the same as Bitcoin.
  - 50 coins per block
