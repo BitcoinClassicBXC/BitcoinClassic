@@ -7,7 +7,7 @@ SetCompressor /SOLID lzma
 !define REGKEY "SOFTWARE\$(^Name)"
 !define VERSION = 1.0.7.2
 !define COMPANY "Arnix project"
-!define URL http://www.arnix.org/
+!define URL http://www.arnixproject.com/
 
 # MUI Symbol Definitions
 !define MUI_ICON "../share/pixmaps/bitcoin.ico"
