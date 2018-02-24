@@ -1,7 +1,7 @@
 TEMPLATE = app
 TARGET = arnix-qt
 macx:TARGET = "Arnix-Qt"
-VERSION = 0.8.7.4
+VERSION = 1.0.7.2
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
