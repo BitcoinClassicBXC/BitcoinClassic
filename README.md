@@ -7,10 +7,11 @@ https://www.arnixproject.com
 
 What is Arnix?
 ----------------
+ <img src="https://avatars1.githubusercontent.com/u/35616636?s=400&u=8d569d78b202e54e6fa06554274e0419a0468103&v=4" alt="ArnixCoin">
 
 Arnix is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
  - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)          <img src="https://avatars1.githubusercontent.com/u/35616636?s=400&u=8d569d78b202e54e6fa06554274e0419a0468103&v=4" alt="ArnixCoin">    
+ - subsidy halves in 840k blocks (~4 years)             
  - ~200 Million total coins
 
 The rest is the same as Bitcoin.
