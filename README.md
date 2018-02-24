@@ -1,4 +1,4 @@
-Arnix integration/staging tree
+Official WebSite
 ================================
 
 https://www.arnixproject.com
@@ -19,6 +19,12 @@ The rest is the same as Bitcoin.
 
 For more information, as well as an immediately useable, binary version of
 the Arnix client sofware, see https://www.arnixproject.com.
+
+
+WhitePaper
+----------------
+https://arnixproject.com/whitepaper.pdf
+
 
 License
 -------
