@@ -3,7 +3,6 @@ Official WebSite
 
 https://www.arnixproject.com
 
-telegram : @habib_alejalil
 
 
 What is Arnix?
