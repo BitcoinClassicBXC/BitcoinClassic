@@ -1,36 +1,25 @@
 Official WebSite
 ================================
 
-https://www.arnixproject.com
 
 
 
-What is Arnix?
+What is Bitcoin Classsic?
 ----------------
 <img src="https://avatars1.githubusercontent.com/u/35616636?s=400&u=8d569d78b202e54e6fa06554274e0419a0468103&v=4" alt="ArnixCoin" >
 
-Arnix is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)             
- - ~200 Million total coins
 
-The rest is the same as Bitcoin.
- - 50 coins per block
  
 
 For more information, as well as an immediately useable, binary version of
-the Arnix client sofware, see https://www.arnixproject.com.
+the BXC client sofware, see https://www.
 
-
-WhitePaper
-----------------
-https://arnixproject.com/whitepaper.pdf
 
 
 License
 -------
 
-Arnix is released under the terms of the MIT license. See `COPYING` for more
+Bitcoin Classic is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
