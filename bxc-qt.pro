@@ -1,6 +1,6 @@
 TEMPLATE = app
 TARGET = bxc-qt
-macx:TARGET = "Bxc-Qt"
+macx:TARGET = "BXC-Qt"
 VERSION = 1.0.7.2
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
