@@ -6,7 +6,7 @@ https://www.
 
 What is Bitcoin Classsic?
 ----------------
-<img src="https://avatars1.githubusercontent.com/u/35616636?s=400&u=8d569d78b202e54e6fa06554274e0419a0468103&v=4" alt="ArnixCoin" >
+<img src="https://avatars1.githubusercontent.com/u/35616636?s=400&u=8d569d78b202e54e6fa06554274e0419a0468103&v=4" alt="Bitcoin Classic" >
 
 
  
@@ -28,7 +28,7 @@ Development process
 Developers work in their own trees, then submit pull requests when they think
 their feature or bug fix is ready.
 
-If it is a simple/trivial/non-controversial change, then one of the Arnix
+If it is a simple/trivial/non-controversial change, then one of the Bitcoin Classic
 development team members simply pulls it.
 
 If it is a *more complicated or potentially controversial* change, then the patch
@@ -41,7 +41,7 @@ controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
 completely stable. [Tags](https://github.com/arnix-project/arnix/tags) are created
-regularly to indicate new official, stable release versions of Arnix.
+regularly to indicate new official, stable release versions of Bitcoin Classic.
 
 Testing
 -------
