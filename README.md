@@ -4,7 +4,7 @@ Official WebSite
 https://www.
 
 
-What is Bitcoin Classsic?
+What is Bitcoin?
 ----------------
 <img src="https://avatars1.githubusercontent.com/u/35616636?s=400&u=8d569d78b202e54e6fa06554274e0419a0468103&v=4" alt="Bitcoin Classic" >
 
